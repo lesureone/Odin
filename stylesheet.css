@@ -1,0 +1,84 @@
+.nav_top  {
+	
+  	font-family:arial;
+  	color:#404040;
+  	font-size:14px;
+  	line-height: 24px;
+}
+
+#profile  {
+	float:right;
+	margin: 0 9px;
+  	list-style-type: none;
+}
+
+#email  {
+	float:right;
+	margin: 0 9px;
+  	list-style-type: none;
+}
+
+#images  {
+	float:right;
+	margin: 0 9px;
+	list-style-type: none;
+}
+  	
+.main  {
+	text-align: center;
+	padding-top: 176px;
+}
+
+.main img  {
+	height: 95px;
+	width: 269px;
+}
+
+.main form input  {
+	width: 524px;
+	height: 20px;
+}
+
+.nav_bottom  {
+	font-family:arial;
+  	color:#404040;
+  	font-size:10px;
+  	line-height: 24px;
+  	list-style-type: none;
+   	background:rgb(242, 242, 242);
+  	height:40px;
+  	width:100%;
+  	position:fixed;
+  	bottom:0px;
+ }
+
+#privacy  {
+	float: right;
+	margin: 0 9px;
+	list-style-type: none;
+}
+
+#settings  {
+	float: right;
+	margin: 0 9px;
+	list-style-type: none;
+	margin-right: 40px;
+}
+
+#about  {
+	float: left;
+	margin: 0 9px;
+	list-style-type: none;
+}
+
+#business  {
+	float: left;
+	margin: 0 9px;
+	list-style-type: none;
+}
+
+#advertising  {
+	float: left;
+	margin: 0 9px;
+	list-style-type: none;
+}
